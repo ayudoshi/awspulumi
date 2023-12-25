@@ -1,0 +1,6 @@
+name: firstCode
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: cloud practice first code
