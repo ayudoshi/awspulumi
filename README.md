@@ -1,5 +1,5 @@
 <h1>Infrastructure as code using aws and pulumi</h1>
-<h2>In this repo there are different folders each of this folder contain code to create aws infra. Code in divide in three part basics to advanced. And what exactly is done in each file is written below.</h2>
+<h2>In this repo there are different folders each of this folder contain code to create aws infra. Code is divide in three parts basic to advance. And what exactly is done in each file is written below.</h2>
 
 <h3>firstCode</h4>
 <p>In this directory i have written code to create a s3 bucket and add an index.html file in the bucket. Then i have change acl of the bucket and created an endpoint to access the index.html file as a static website</p>
